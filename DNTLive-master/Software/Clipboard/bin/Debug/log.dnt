@@ -1,0 +1,5 @@
+﻿System.NotSupportedException: WebClient does not support concurrent I/O operations.
+   at System.Net.WebClient.ClearWebClientState()
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName, Object userToken)
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName)
+   at 剪贴板.MainForm.DownloadImg(String dataStr) in c:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\MainForm.cs:line 160

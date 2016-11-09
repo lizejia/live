@@ -1,0 +1,10 @@
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\obj\Debug\ShopMenu.csprojResolveAssemblyReference.cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\obj\Debug\ShopMenu.CityForm.resources
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\obj\Debug\ShopMenu.MainForm.resources
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\obj\Debug\ShopMenu.csproj.GenerateResource.Cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\bin\Debug\ShopMenu.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\bin\Debug\ShopMenu.pdb
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\obj\Debug\ShopMenu.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\ShopMenu\ShopMenu\obj\Debug\ShopMenu.pdb

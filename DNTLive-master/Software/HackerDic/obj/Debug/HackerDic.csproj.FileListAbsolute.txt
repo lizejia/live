@@ -1,0 +1,13 @@
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\bin\Debug\黑客字典.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\bin\Debug\黑客字典.pdb
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\HackerDic.csprojResolveAssemblyReference.cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\MainWindow.g.cs
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\App.g.cs
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\黑客字典_MarkupCompile.cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\黑客字典_MarkupCompile.lref
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\MainWindow.baml
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\黑客字典.g.resources
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\黑客字典.Properties.Resources.resources
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\HackerDic.csproj.GenerateResource.Cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\黑客字典.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\HackerDic\obj\Debug\黑客字典.pdb

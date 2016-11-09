@@ -1,0 +1,5 @@
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\LoTTimer\bin\Debug\LoTTimer.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\LoTTimer\bin\Debug\LoTTimer.pdb
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\LoTTimer\obj\Debug\LoTTimer.csprojResolveAssemblyReference.cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\LoTTimer\obj\Debug\LoTTimer.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\LoTTimer\obj\Debug\LoTTimer.pdb

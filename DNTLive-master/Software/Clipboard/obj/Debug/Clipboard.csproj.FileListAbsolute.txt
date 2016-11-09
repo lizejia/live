@@ -1,0 +1,8 @@
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\bin\Debug\万恶剪贴板.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\bin\Debug\万恶剪贴板.pdb
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\obj\Debug\Clipboard.csprojResolveAssemblyReference.cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\obj\Debug\剪贴板.MainForm.resources
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\obj\Debug\万恶剪贴板.Properties.Resources.resources
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\obj\Debug\Clipboard.csproj.GenerateResource.Cache
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\obj\Debug\万恶剪贴板.exe
+C:\Users\rl1h\Desktop\DNTLive-master\DNTLive-master\Software\Clipboard\obj\Debug\万恶剪贴板.pdb
